@@ -8,10 +8,6 @@
 </div>
 
 
-<div align="center">
-    [PLACEHOLDER: Add screenshot/demo of your food storage app main interface]
-</div>
-
 ## Introduction
 FoodStorage helps users track their stored food items, manage expiration dates, and discover recipes based on available ingredients. The app combines practical food management with recipe inspiration to reduce food waste and enhance meal planning.
 
